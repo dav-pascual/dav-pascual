@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @dav-pascual
+- 👋 Hi, I’m @dav-pascual!
+- 👀 I'm an engineer with experience in development and DevOps
+- 🌱 In this repository you can see some of my projects.
+- 📫 You can also contact me on linkedin: [David Pascual](https://www.linkedin.com/in/david-pascual-hernandez/)
+- 🙂 Looking forward!
 
 
 <!---
